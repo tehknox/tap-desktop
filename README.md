@@ -1,3 +1,6 @@
+<h3>A Fork of The Airline Project</h3>
+As of November 25th, 2015, I forked TAP-Desktop. Trying to implement new thing and fix the current problems from the game.
+<hr/>
 <h3>The Airline Project - freshly converted to git!</h3>
 <p>Please consider donating to support The Airline Project! The game is and will continue to be free, however donations help cover expenses like domain name registration and web hosting</p>
 <p>Down the road, we would love to add a dedicated deployment server, but these aren't cheap!</p>
